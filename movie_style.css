@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body 
+{  
+ background-image: url('bg3.jpg');   
+ background-size: cover;
+}
+#shows{
+	padding: 5px 0;
+    font-size: 40px;
+}
+#tickets{
+	font-style: italic;
+    font-size: 20px;
+}
+#quries{
+    font-style: italic;
+    font-size: 20px;
+    text-align-last: right;
+}
+#black{
+    height: 4%;
+    width: 100%;
+    background-color: #000000;
+    word-spacing: 30px;
+}
+.main{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    padding: 5px;
+    border-color: black;
+}
+#offer{
+    font-size: 20px;
+     text-align: right;
+     font-family: "Arial";
+}
+#text{
+    font-size: 20px;
+     text-align: left;
+}
